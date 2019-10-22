@@ -35,3 +35,4 @@ How is John connected to Mike? [John, Mary, James, Mike]
 + Virtual Env (I recommend pipenv)
 + Pytest
 + Flask
++ SQlite
