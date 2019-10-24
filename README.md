@@ -25,7 +25,7 @@ Example: John is connected to Mary, Mary is Connected to James, James is connect
 How is John connected to Mike? [John, Mary, James, Mike] 
 
 ### Things to think about:
-+ Good separation of concerns. Different layers for api, business logic, data access and model
++ Good separation of concerns. Different layers for api, logic, persistance, model.
 + Testing
 + You can use an ORM but not required. We use SQLAlchemy
 + Please feel free to add other endpoints to make the API richer
